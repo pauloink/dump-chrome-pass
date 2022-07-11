@@ -1,6 +1,8 @@
 # Installation:
 Check for dependencies on requirements.txt
 
+Please, check this ![link](https://pycryptodome.readthedocs.io/en/latest/src/installation.html) if you come across Cryptodome lib problems if you come across Cryptodome lib problems.
+
 # First function:
 ### def chrome_date_and_time(chrome_data):
 The **chrome_date_and_time()** function is responsible for converting Chrome’s date format into a human-readable date and time format.
